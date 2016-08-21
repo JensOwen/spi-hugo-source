@@ -21,3 +21,9 @@ $ cd ~/spi/website
 $ git clone https://github.com/stormpeakinnovations/spi-hugo-source.git
 $ git clone https://github.com/stormpeakinnovations/stormpeakinnovations.github.io.git
 ```
+
+## Regenerate Site
+```
+$ cd ~/spi/website/spi-hugo-source
+$ hugo -d ../stormpeakinnovations.github.io --theme=grid-side
+```
