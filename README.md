@@ -1,5 +1,5 @@
 # spi-hugo-source
-SPI Hugo-based Website
+Directions for how the SPI Hugo-based website is setup and managed.
 
 ## My Setup (OSX)
 - Download Hugo binary from www.gohugo.io
